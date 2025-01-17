@@ -1,0 +1,85 @@
+.head{
+    color:red;
+}
+
+.sub-head{
+    font-family: Arial, Helvetica, sans-serif;
+    color:red;
+}
+.page1text{
+text-align: center;
+text-decoration:solid;
+}
+#Heyball{
+    margin-left:20px;
+}
+#page2{
+   display:inline-block;
+}
+
+.h3{
+    font-family:Arial, Helvetica, sans-serif;
+    font-style:italic;
+    text-align:center;
+    color:blue;
+    font-size:27px;
+}
+.h4{
+    font-family:Arial, Helvetica, sans-serif;
+    font-style:italic;
+    text-align:center;
+    color:black;
+    font-size:12px;
+}
+.textforDUYA8thpoolball{
+    font-family:'PlayfairDisplay_Bold';
+    font: size 14px;
+    margin-left:110px;
+    margin-top:12px;
+    padding:0;
+    text-decoration:solid;
+    line-height: 20px;
+    text-align: center;
+    color:green;
+}
+
+#DUYAdiv{
+   display:inline-block; 
+}
+#imageforDUYA8thball{
+    text-align: center;
+}
+#DUYAdiv2{
+    display:block;
+}
+.textforDUYA8thpoolball2{
+    font-family:'PlayfairDisplay_Bold';
+    font-size:14px;
+    margin-left:893px;
+    margin-top:12px;
+    padding:0;
+    text-decoration:solid;
+    line-height: 20px;
+    text-align: center;
+    color:green;
+}
+.DUYAcommitment{
+    font-family:'PlayfairDisplay_Bold';
+    font-size:12px;
+    margin-left:893px;
+    margin-top:12px;
+    padding:0;
+    text-decoration:solid;
+    line-height: 20px;
+    text-align: center;
+    color:green;
+}
+@font-face
+{
+    font-family:myFont;
+    src:url(Super Cartoon.ttf)
+}
+
+h4{
+    font-family:myFont;
+}
